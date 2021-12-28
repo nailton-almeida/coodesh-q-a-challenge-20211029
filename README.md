@@ -23,7 +23,7 @@ Scripts para a criação de um novo cadastro no site da Coodesh, realização de
    |    |-- tests/                               # Diretório com os cenários escritos em Gherkin
    |    |-- support/                             # Diretório com arquivos adicionais que suportam as avaliação
         |-- browser.py                           # Comandos para utilização do browser(Chrome)
-        |-- environment_state.py                 # Realiza a execução dos comandos definidos no arquivo browser.py
+        |-- environment.py                       # Realiza a execução dos comandos definidos no arquivo browser.py
    |-- ************************************************************************
 ```
 
